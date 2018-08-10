@@ -5,6 +5,12 @@ How to build a menu:
 https://youtu.be/zc8ac_qUXQY
 
 
+# learners:
+Brackeys
+N3K
+
+# Twitch
+AceGitmo
 
 # Tools
 
