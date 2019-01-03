@@ -18,3 +18,6 @@ AceGitmo
 ## Animation
 https://www.mixamo.com  (crazy animation tool - rigged characters)
 Unity extension: Anima2d
+
+## Scriptable objects (with card example)
+https://www.youtube.com/watch?v=aPXvoWVabPY
