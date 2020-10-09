@@ -6,6 +6,9 @@ How to drag and drop a window: https://www.youtube.com/watch?v=Mb2oua3FjZg
 Buildeing an invetory system (simple notifier implementation): https://www.youtube.com/watch?v=Hj7AZkyojdo   
 Order of execution of triggers: https://docs.unity3d.com/Manual/ExecutionOrder.html
 
+Using mixamo in unity (this video part of photon game series): https://www.youtube.com/watch?v=POt8BvCvEis
+
+
 # building mobile
 https://www.youtube.com/watch?v=9idhPVjcCpw&t=3s&utm_source=ActiveCampaign&utm_medium=email&utm_content=Build+Turn-Based%2C+RTS%2C+and+Resource+Management+Strategy+Games+with+Unity&utm_campaign=2019-11-13+-+Strategy+Game+Dev+Academy+Launch+-+%5BALL%5D
 
@@ -22,6 +25,7 @@ AceGitmo
 ## Animation
 https://www.mixamo.com  (crazy animation tool - rigged characters)
 Unity extension: Anima2d
+
 
 ## Scriptable objects (with card example)
 https://www.youtube.com/watch?v=aPXvoWVabPY
