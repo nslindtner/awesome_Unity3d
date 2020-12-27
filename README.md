@@ -1,4 +1,8 @@
 # awesome_Unity3d
+# My Own notes (allmost just checklists)
+Import animation from maximo: link
+
+
 Link I found for unity 3d
 
 How to build a menu: https://youtu.be/zc8ac_qUXQY   
